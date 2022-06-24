@@ -16,7 +16,7 @@ const Cunteynir = styled.div`
     flex-direction: column;
     justify-content: space-between;
     /* background-color: black; */
-    height: 100%;
+    /* height: 100%; */
 `
 
 const But = styled(Link)`
@@ -24,6 +24,7 @@ const But = styled(Link)`
     /* background-color: blueviolet; */
     background-color: black;
     font-size: 148px;
+    text-align: center;
     padding: 60px;
     color: blueviolet;
     text-decoration: none;

@@ -2,7 +2,7 @@ import React from 'react'
 import styled from 'styled-components'
 export const Page3 = () => {
     const [text, setText] = React.useState('')
-    const [item, setItem] = React.useState('')
+    const [items, setItems] = React.useState('')
     return (
         <Cunteynir>
             <input />
